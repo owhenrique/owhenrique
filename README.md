@@ -1,16 +1,22 @@
+## Hi, my name is Paulo Henrique
+
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
+
 <p align="left"> 
-  Hi, my name is Paulo! I'am, actualy, pursuing a bachelor's degree in software engineering at Universidade de Brasília.<br/>
-  I'm interested at backend development.
+  🎓 I'am, actualy, pursuing a bachelor's degree in software engineering at Universidade de Brasília.<br/>
+</p>
+
+<p align="left"> 
+  🌱 While my primary focus is backend development, my passion for technology have led me to explore and learn a bit about frontend development as well.
 </p>
 
 <p align="left">
-  🦄 Typescript, Javascript, Python, C, C++.
+  🚀 Typescript, Javascript, Python, C, C++, NodeJs, React, Django, Flask, Fast, MySQL, PostgreSQL, MongoDB.
 </p>
 
 <p align="left">
-  💼 Git, Visual Studio Code, Linux. 
+  💼 Git, Docker, Visual Studio Code, Insomnia, Linux. 
 </p>
 
 <p align="left">
